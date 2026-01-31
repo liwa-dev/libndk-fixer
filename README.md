@@ -1,7 +1,7 @@
 # libndk_fixer
 This fixes the roblox app crashing inside Waydroid when using libndk_translation.
 
-
+a
 ## How to install
 - Build yourself or download a precompiled binary (click [here](https://nightly.link/Slappy826/libndk-fixer/workflows/build/master/lib.zip) to download the latest) from ci.
 - Ensure you have libndk installed, if not you can install it using [waydroid_script](https://github.com/casualsnek/waydroid_script)
